@@ -11,3 +11,6 @@
 
   ## Demo Link
   https://youtu.be/G7NkvnDWR4w
+  
+  ## Prototype Link
+  https://localartisanhubb.netlify.app/
